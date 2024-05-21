@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1440 465.7" style="enable-background:new 0 0 1440 465.7;" xml:space="preserve">
+<style type="text/css">
+	
+		.st0{clip-path:url(#SVGID_00000148633100083445584420000001701038563227107212_);fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000084497616356713183770000000233744037434474631_);}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="0" width="1440" height="465.7"/>
+	</defs>
+	<clipPath id="SVGID_00000157270667100741448750000005307545490572553871_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	
+		<linearGradient id="SVGID_00000046339905763503918440000012680742264622241461_" gradientUnits="userSpaceOnUse" x1="-0.6164" y1="827.3077" x2="0.3785" y2="827.3077" gradientTransform="matrix(465.9834 465.9834 465.9827 -465.9827 -385456.8125 386030.9688)">
+		<stop  offset="0" style="stop-color:#FF55E1"/>
+		<stop  offset="0.5352" style="stop-color:#FF0402"/>
+		<stop  offset="0.9992" style="stop-color:#FFB402"/>
+	</linearGradient>
+	
+		<path style="clip-path:url(#SVGID_00000157270667100741448750000005307545490572553871_);fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000046339905763503918440000012680742264622241461_);" d="
+		M0,0l466,465.7L0,931.4l-466-465.7L0,0z"/>
+</g>
+</svg>

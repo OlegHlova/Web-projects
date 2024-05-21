@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="347px" height="585px" viewBox="0 0 347 585" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Gray Copy</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="347" height="585"></rect>
+        <linearGradient x1="100%" y1="37.5430776%" x2="9.40550635%" y2="53.5531566%" id="linearGradient-3">
+            <stop stop-color="#FF54DB" offset="0%"></stop>
+            <stop stop-color="#FE0705" offset="51.5861458%"></stop>
+            <stop stop-color="#FFB000" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-4" points="438.504451 146.504451 146.18563 438.504451 145.999145 438.319258 145.813514 438.504451 -146.504451 146.504451"></polygon>
+        <filter x="-22.2%" y="-51.4%" width="144.4%" height="189.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="-20" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="40" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0   0 0 0 0 0  0 0 0 0.848077947 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="OMEN-2.0---Global-Styles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Navigation-//-Footer" transform="translate(-677.000000, -3656.000000)">
+            <g id="Gray-Copy" transform="translate(677.000000, 3656.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <g id="OMEN-SHAPE" mask="url(#mask-2)">
+                    <g transform="translate(55.039648, 0.362754)" id="Fill-14">
+                        <g transform="translate(146.000000, 292.504451) rotate(-270.000000) translate(-146.000000, -292.504451) ">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                            <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
